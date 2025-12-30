@@ -1,4 +1,4 @@
-namespace {{NAMESPACE}}.services;
+namespace PalindromeService.services;
 
 public class AppSettings : BaseAppSettings
 {

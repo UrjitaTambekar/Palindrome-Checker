@@ -2,11 +2,11 @@ using Xunit;
 using Moq;
 using Microsoft.Extensions.Logging;
 using NATS.Client.Core;
-using {{NAMESPACE}}.controllers;
-using {{NAMESPACE}}.services;
-using {{NAMESPACE}}.services.http;
+using PalindromeService.controllers;
+using PalindromeService.services;
+using PalindromeService.services.http;
 
-namespace {{NAMESPACE}}.Tests.Controllers;
+namespace PalindromeService.Tests.Controllers;
 
 public class HealthControllerTests
 {

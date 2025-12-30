@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\{{NAMESPACE}}\{{NAMESPACE}}.csproj" />
+    <ProjectReference Include="..\PalindromeService\PalindromeService.csproj" />
   </ItemGroup>
 
 </Project>
